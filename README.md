@@ -6,7 +6,8 @@ This project implements a binary image classification model to distinguish betwe
 The dataset used in this project is the **Cats and Dogs Images** dataset from Kaggle. It contains images of cats and dogs, organized into training, validation, and test sets.
 
 - **Source**: [Kaggle Dataset Link](https://www.kaggle.com/datasets/your-dataset-link)
-Although it didn't have `val/`, I created on my own
+  
+Although it didn't havd `val/` folder, So I created one.
 The dataset is organized into three directories:
 - `train/`: Training images for cats and dogs.
 - `val/`: Validation images for cats and dogs.
